@@ -4,6 +4,7 @@
   "description": "Photo Gallery CRUD Prototype using Node JS",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/k0zyX/PhotoGallery-Node-JS#readme",
   "devDependencies": {
+    "nodemon": "^2.0.16",
     "prettier": "2.6.2"
   },
   "dependencies": {
