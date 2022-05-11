@@ -1,0 +1,26 @@
+{
+  "name": "photogallery-node-js",
+  "version": "1.0.0",
+  "description": "Photo Gallery CRUD Prototype using Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0zyX/PhotoGallery-Node-JS.git"
+  },
+  "keywords": [],
+  "author": "Baris Dogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k0zyX/PhotoGallery-Node-JS/issues"
+  },
+  "homepage": "https://github.com/k0zyX/PhotoGallery-Node-JS#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
