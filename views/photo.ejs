@@ -21,9 +21,11 @@
 					<div class="row mt-3 mb-5 pb-3">
 						<div class="col-12">
 							<div class="mx-auto tm-about-text-container px-3">
-								<h2 class="tm-page-title mb-4 tm-text-primary">About the Video Catalog</h2>
-                                <img class="mb-4" style="max-width: 100%;" src="img/about-2.jpg" alt="">
-								<p class="mb-4">Video Catalog is free HTML CSS template for your website. This Bootstrap v4.4.1 website template is 100% free download for everyone. You can modify and expand this template for your CMS websites. You can use it for commercial or non-commercial work. If you wish to support <a href="https://templatemo.com" class="tm-text-primary">TemplateMo</a>, please contact us.</p>
+								<h2 class="tm-page-title mb-4 tm-text-primary"><%= photo.title %></h2>
+                                <img class="mb-4" style="max-width: 100%;" src="<%= photo.image %>" alt="">
+								<p class="mb-4"><%= photo.description %></p>
+                                <button type="submit" class="btn rounded-0 btn-primary tm-btn-small">Subscribe</button>
+                                <button type="submit" class="btn rounded-0 btn-primary tm-btn-small">Subscribe</button>
 							</div>							
 						</div>						
 					</div>					
