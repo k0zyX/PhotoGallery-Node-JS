@@ -28,3 +28,6 @@ npm start
 ![PhotoGallery](/README_Photos/index.jpeg "PhotoGallery Index")
 ### Add new photos from Add Photo page
 ![PhotoGallery](/README_Photos/add_new_photo.jpeg "PhotoGallery Add New")
+### You can change your description or title
+![PhotoGallery](/README_Photos/photo.jpeg "PhotoGallery Photo")
+![PhotoGallery](/README_Photos/edit_photo.jpeg "PhotoGallery Photo")
